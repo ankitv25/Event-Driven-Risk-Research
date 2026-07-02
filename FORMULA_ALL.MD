@@ -712,3 +712,5 @@ $$\text{Exchange Ratio}(t) = \frac{\text{Fixed Dollar Offer Value per Target Sha
 **Institutional Interview Intuition:**
 A fixed exchange ratio sets a static share allocation exposing the target to the acquirer's market volatility, whereas a floating exchange ratio protects the target's total transaction value by forcing the acquirer to issue more shares if their stock drops. Explain to a corporate restructuring client that choosing between these frameworks is a precise exercise in allocating post-announcement market risk between the two shareholder bases.
 
+
+
